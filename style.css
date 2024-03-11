@@ -1,0 +1,11 @@
+p {
+    width: 300px;
+    color: blue;
+    background-color: aquamarine;
+}
+
+.titulo {
+    font-size: 1.5rem;
+    color: bisque;
+    background-color: black;
+}
