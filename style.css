@@ -37,3 +37,38 @@ body {
 .nav-list a:hover {
   color: #FFF;
 }
+
+.styled-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 18px;
+  text-align: left;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table caption {
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.styled-table th,
+.styled-table td {
+  padding: 12px 15px;
+}
+
+.styled-table th {
+  background-color: #009879;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.styled-table tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tr:hover {
+  background-color: #f1f1f1;
+}
