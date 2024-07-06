@@ -9,6 +9,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/*Estilização da nav bar*/
 .nav {
   background-color: #181818;
   width: 100%;
@@ -37,7 +38,9 @@ body {
 .nav-list a:hover {
   color: #FFF;
 }
+/*Fim da estilização da nav bar*/
 
+/*Estilização da tabela*/
 .styled-table {
   width: 80%;
   border-collapse: collapse;
@@ -72,3 +75,5 @@ body {
 .styled-table tr:hover {
   background-color: #f1f1f1;
 }
+
+/*Fim da estilização da tabela*/
